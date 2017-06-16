@@ -29,16 +29,7 @@ public class MainClass {
 		driver.get( baseUrl );
 		frdriver.get( baseUrl );
 		iedriver.get(baseUrl);
-		 //String currentURL = null;
-		 //currentURL = driver.getPageSource();
-		 //System.out.println(currentURL);
-		//Rectangle location = driver.findElement(By.xpath("html/body/div/table/tbody/tr/td[1]/table/tbody/tr/td/table/tbody/tr/td/p[2]/img")).getRect();
-		  //driver.findElement(By.xpath("html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[3]/form/table/tbody/tr[4]/td/table/tbody/tr[2]/td[2]/input")).sendKeys("demo");
-	      // driver.findElement(By.xpath("html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[3]/form/table/tbody/tr[4]/td/table/tbody/tr[3]/td[2]/input")).sendKeys("demo");
-	      // driver.findElement(By.xpath("html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[3]/form/table/tbody/tr[4]/td/table/tbody/tr[4]/td[2]/div/input")).click(); 
-	       //driver.findElement(By.xpath("html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/font/font/input[1]")).click();
-		 ////System.out.println(location);
-		 //
+
 		 
 		 // System.out.println("Dimensions of h1 element are :");
 		 // System.out.println("size : (" + location.getWidth() + "," + location.getHeight() +")");
