@@ -31,21 +31,7 @@ public class MainClass {
 		iedriver.get(baseUrl);
 
 		 
-		 // System.out.println("Dimensions of h1 element are :");
-		 // System.out.println("size : (" + location.getWidth() + "," + location.getHeight() +")");
-		 // System.out.println("Dimension : (" + location.getX() + "," + location.getY() +")");
-	
-	     //close Fire fox
-	       // driver.close();
-      //  String alertMessage = "";
-
-       // driver.get("http://jsbin.com/usidix/1");
-      //  driver.findElement(By.xpath("html/body/input")).click();
-       // alertMessage = driver.switchTo().alert().getText();
-       // driver.switchTo().alert().accept();
-       
-       // System.out.println(alertMessage);
-        //driver.quit();
+//comment deleted
 	       
 	        // exit the program explicitly
 	        System.exit(0);	
